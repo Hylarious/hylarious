@@ -1,4 +1,4 @@
-Hello there!
+<p style="font-weight:700">Hello there! </p>
 
 My name is Karolina and I'm learning to become Front-end Developer 
 
